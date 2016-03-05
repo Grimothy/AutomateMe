@@ -1,7 +1,10 @@
 ::@echo off
 
+::AutomateMe.bat by Sir Grim
+
 :: This script will automate the packing of a pbo file
 :: IT will move the mission PBO to the mpmission folder that your specify as well as copy the file to your MPMissionCache
+::Use the Defines section to set your paths accordingly
 
 SETLOCAL ENABLEDELAYEDEXPANSION
 	
