@@ -18,7 +18,7 @@ SETLOCAL ENABLEDELAYEDEXPANSION
 		Set TempMissionDir= "D:\Documents\Docs\Temp_Arma3_Wasteland.Altis"
 		
 
-	::Create GitTempDir
+	::Create Temp Directory
 	mkdir %TempMissionDir%
 	
 	::Copy Source
